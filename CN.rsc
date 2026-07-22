@@ -3799,7 +3799,6 @@ add list=CN address=222.126.142.0/23 comment=AS4809
 add list=CN address=222.126.146.0/23 comment=AS4809
 add list=CN address=222.126.148.0/23 comment=AS4809
 add list=CN address=222.126.152.0/21 comment=AS4809
-add list=CN address=222.126.164.0/24 comment=AS4809
 add list=CN address=222.126.170.0/23 comment=AS4809
 add list=CN address=222.126.172.0/22 comment=AS4809
 add list=CN address=222.126.180.0/22 comment=AS4809
